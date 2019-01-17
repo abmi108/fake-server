@@ -1,0 +1,37 @@
+[
+  {
+    "color": "green",
+    "icon": "mdi-store",
+    "title": "Revenue",
+    "value": "$34,245",
+    "sub-icon": "mdi-calendar",
+    "sub-text": "Last 24 Hours"
+  },
+  {
+    "color": "orange",
+    "icon": "mdi-content-copy",
+    "title":  "Used pace",
+    "value": "49/50",
+    "sub-icon": "mdi-alert",
+    "sub-text": "Get More Space...",
+  },
+  {
+    "color": "red",
+    "icon": "mdi-information-outline",
+    "title": "Issues",
+    "value": "45",
+    "sub-icon": "mdi-tag",
+    "sub-text": "Tracked from Github",
+  },
+  {
+    "color": "info",
+    "icon": "mdi-twitter",
+    "title": "Followers",
+    "value": "+245",
+    "sub-icon": "mdi-update",
+    "sub-text": "Just Updated",
+  }
+]
+
+
+
